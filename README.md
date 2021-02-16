@@ -6,7 +6,7 @@
 * Debugging on Code Expert
 * Common Pitfalls and Further Things You Should Know
 
-You might want to download this file and view it in Typora, so that you have a nice table of contents in the sidebar.
+You might want to download this file and view it in Typora, so that you have a nice table of contents in the sidebar. Also, the math would display well then.
 
 ## Why?
 
