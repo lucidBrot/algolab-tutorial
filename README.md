@@ -5,6 +5,8 @@
 * Useful c++ stuff
 * Debugging on Code Expert
 * Common Pitfalls and Further Things You Should Know
+* Ideas behind Exercise Solutions
+* Github Repos I recommend
 
 You might want to download this file and view it in Typora, so that you have a nice table of contents in the sidebar. Also, the math would display well then.
 
