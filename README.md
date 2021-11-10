@@ -1723,6 +1723,9 @@ But if we have two attackers that both *must* attack, then the best choice would
 
 ![Anhang defline.png](README.assets/defline.png)
 
+### Attack Of The Clones  
+I failed this task 13 times, even with master solution open during at least nine of the retries. A year later, I had another go at it but this time without undefined behaviour. If you want to see the generic idea or my rust code for it, see [attack of the rusty clones](https://github.com/lucidBrot/attack-of-the-rusty-clones).
+
 ### World Cup
 
 Basic idea: do LP with the constraints first, maximizing profit. One limit for supply in each warehouse, one constraint for sum of incoming beer per stadium, and one constraint per stadium that the sum of incoming alcohol times its percentage must be less or equal to the allowed liters. In those constraints, the contour lines cause some reduced revenue per connection.
