@@ -794,8 +794,6 @@ Here are some good quotes from the slides:
 
 ![image-20201029143621938](README.assets/image-20201029143621938.png)
 
-![image-20201029143621938](codingtricks.assets/image-20201029143621938.png)
-
 ##### Pivot Rule
 
 Use the default pivot rule unless it fails. If it fails, it cycles forever.
